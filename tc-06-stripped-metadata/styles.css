@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'CustomSans';
+  src: url('./fonts/unknown-stripped.woff2') format('woff2');
+}
+
+body { font-family: 'CustomSans', sans-serif; }

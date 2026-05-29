@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'ObscureFont';
+  src: url('./fonts/restricted-unknown.woff2') format('woff2');
+}
+
+body { font-family: 'ObscureFont', sans-serif; }

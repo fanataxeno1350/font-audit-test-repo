@@ -1,0 +1,6 @@
+{
+  "name": "dashboard",
+  "dependencies": {
+    "@fontsource/inter": "^5.0.0"
+  }
+}

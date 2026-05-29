@@ -1,0 +1,17 @@
+/* No @font-face anywhere. Fonts referenced by name only. */
+
+body {
+  font-family: 'Proxima Nova', Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Gotham', Helvetica, sans-serif;
+}
+
+.caption {
+  font-family: 'GT Walsheim', system-ui, sans-serif;
+}
+
+code {
+  font-family: 'Fira Code', monospace;
+}

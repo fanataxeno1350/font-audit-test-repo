@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'XantheraDisplay';
+  src: url('./fonts/mystery-font.woff2') format('woff2');
+}
+
+body { font-family: 'XantheraDisplay', serif; }

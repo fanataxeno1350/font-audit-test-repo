@@ -1,0 +1,11 @@
+body {
+  font-family: 'Proxima Nova', 'Inter', Arial, sans-serif;
+}
+
+h1 {
+  font-family: 'Gotham', 'Helvetica Neue', sans-serif;
+}
+
+.code {
+  font-family: 'Fira Code', 'Source Code Pro', monospace;
+}
